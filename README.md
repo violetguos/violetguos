@@ -20,7 +20,7 @@ I'm a software developer currently focused on B2B SaSS software integration for 
 
 You can find some of my work below:
 - [tech and career related blog posts](https://violetguos.github.io/blog)
-- [creative writing, and posts on entrepreneurship ](https://substack.com/@violetguo)
+- [I Attempted to Recreate Instagram](https://violetguo.substack.com/p/i-attempted-to-recreate-instagram)
 - [My Medium article on machine learning, 10 likes so far](https://medium.com/@violetguo/how-to-structure-your-machine-learning-code-repository-8cb81ffc1c98)
 
 

@@ -25,4 +25,4 @@ You can find some of my work below:
 
 
 ## Hire Me 📫
-I'm a freelance technical writer currently taking on new clients. If you'd like to contact me you can do so at `<my github username>@icloud.com`
+I'm a freelancer currently taking on new clients. If you need help with your technical writing/documentation, book a consultation [here](https://violetguo.gumroad.com/l/consult)

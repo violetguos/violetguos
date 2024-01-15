@@ -23,6 +23,3 @@ You can find some of my work below:
 - [I Attempted to Recreate Instagram](https://violetguo.substack.com/p/i-attempted-to-recreate-instagram)
 - [My Medium article on machine learning, 10 likes so far](https://medium.com/@violetguo/how-to-structure-your-machine-learning-code-repository-8cb81ffc1c98)
 
-
-## Hire Me 📫
-I'm a freelancer currently taking on new clients. If you need help with your technical writing/documentation, book a consultation [here](https://violetguo.gumroad.com/l/consult)

@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About Me ⚡
-I'm a software developer currently focused on B2B SaSS software integration for brick and mortar retailers. I'm passionate about sharing any knowledge I have about programming and development in the form of my writing. 
-
-You can find some of my work below:
+## selected writing ⚡
 - [tech and career related blog posts](https://violetguos.github.io/blog)
 - [I Attempted to Recreate Instagram](https://violetguo.substack.com/p/i-attempted-to-recreate-instagram)
 - [My Medium article on machine learning, 10 likes so far](https://medium.com/@violetguo/how-to-structure-your-machine-learning-code-repository-8cb81ffc1c98)

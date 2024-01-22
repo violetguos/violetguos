@@ -14,9 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## selected writing ⚡
-- [tech and career related blog posts](https://violetguos.github.io/blog)
-- [I Attempted to Recreate Instagram](https://violetguo.substack.com/p/i-attempted-to-recreate-instagram)
-- [My Medium article on machine learning, 10 likes so far](https://medium.com/@violetguo/how-to-structure-your-machine-learning-code-repository-8cb81ffc1c98)
-

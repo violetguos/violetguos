@@ -3,7 +3,7 @@
 - Past: SWE for 1/ ecommerce fulfillment 2/ enterprise identity 3/ whitelabel retail 4/ social media advertising
 - Past: MLE for 1/ drug discovery 2/ insurance
 - My current role is a good combo of all my previous experiences
-- How to reach me: email for a ☕ 
+- How to reach me: [Email me](mailto:v@violetyguo.com)  for a ☕ 
 ### Apps I love
 - opal - for focus
 - obsidian - file over app

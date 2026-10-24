@@ -1,11 +1,18 @@
 ### Hi there 👋
-- 🔭 I’m currently working on integrating intelligent modeling features into REST APIs for the logistics industry.
-- 🌱 I’m currently learning finance, theology
-- Not learning but want to learn: proper bread making, bookbinding, art
-- How to reach me: email for a ☕
-- I'm looking for help with: my mechanical keyboard. yes I'm late to the game
-- Top YT channels I recommend: MacroDirt, Benny and Squirrel
-- Now, time to touch grass.
+- I’m currently working on integrating intelligent modeling features into REST APIs for the logistics industry.
+- Past: SWE for 1/ ecommerce fulfillment 2/ enterprise identity 3/ whitelabel retail 4/ social media advertising
+- Past: MLE for 1/ drug discovery 2/ insurance
+- My current role is a good combo of all my previous experiences
+- How to reach me: email for a ☕ 
+### Apps I love
+- opal - for focus
+- obsidian - file over app
+- slate - voice journal app
+- tone - a japanese photo app
+### Hardware 
+- 🍎 mostly - still rocking my iphone 13
+- ⌨️ - ZSA keyboards
+
 
 
 _last updated Oct 2026_
